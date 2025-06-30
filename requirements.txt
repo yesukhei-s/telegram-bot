@@ -1,0 +1,11 @@
+python-telegram-bot==13.0
+openai
+moviepy
+boto3
+romkan
+pykakasi
+eng-to-ipa
+jamdict
+jamdict-data
+japanese-verb-conjugator-v2
+unidic-lite
